@@ -1,6 +1,3 @@
-import 'normalize.css'
-import './App.css'
-
 import KeyboardScreen from './screens/KeyboardScreen'
 
 function App() {
